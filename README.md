@@ -25,4 +25,6 @@ In this assignment, you will put your ETL skills to the test. Many of Amazon's s
   * Trasnformed 
   
   * Loaded
+   
+   ![final_load_videogames](https://user-images.githubusercontent.com/112193116/221995016-4d3f5b72-2806-45ab-958d-5255aaf5a2ea.png)
 
