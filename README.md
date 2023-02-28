@@ -17,3 +17,12 @@ In this assignment, you will put your ETL skills to the test. Many of Amazon's s
 * Loaded
 
   ![final_load](https://user-images.githubusercontent.com/112193116/221993896-89e9c600-bd31-49c5-9801-7fdbaddec719.png)
+  
+  **ETL-Video games reviews datset**
+  
+  * Extracted 1,785,997 number of records
+
+  * Trasnformed 
+  
+  * Loaded
+
