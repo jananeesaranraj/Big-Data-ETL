@@ -23,8 +23,10 @@ In this assignment, you will put your ETL skills to the test. Many of Amazon's s
   * Extracted 1,785,997 number of records
 
   * Trasnformed 
+    
+    ![final_videogames](https://user-images.githubusercontent.com/112193116/221996072-597e2d50-7c89-46b9-b122-cada4c9f57d6.png)
   
   * Loaded
    
-   ![final_load_videogames](https://user-images.githubusercontent.com/112193116/221995016-4d3f5b72-2806-45ab-958d-5255aaf5a2ea.png)
+    ![final_load_videogames](https://user-images.githubusercontent.com/112193116/221995016-4d3f5b72-2806-45ab-958d-5255aaf5a2ea.png)
 
