@@ -9,5 +9,7 @@ In this assignment, you will put your ETL skills to the test. Many of Amazon's s
 **ETL-Baby products reviews datset**
 
 * Extracted 1,752,932 number of records
+
 * Trasnformed 
+  ![final](https://user-images.githubusercontent.com/112193116/221992871-d866d08a-87b6-41cb-b213-42c6bd35a3d8.png)
 * Loaded
